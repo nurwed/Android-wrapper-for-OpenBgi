@@ -1,0 +1,26 @@
+# Gradle
+.gradle/
+build/
+app/build/
+.externalNativeBuild/
+.cxx/
+
+# Local machine configuration
+local.properties
+
+# IDE
+.idea/*
+!.idea/runConfigurations/
+!.idea/runConfigurations/**
+*.iml
+
+# Build outputs and signing files
+*.apk
+*.aab
+*.jks
+*.keystore
+
+# Misc
+captures/
+.DS_Store
+games.json

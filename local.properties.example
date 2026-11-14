@@ -1,0 +1,6 @@
+# Copy this file to local.properties and replace the placeholder paths.
+# Use forward slashes on Windows as well (D:/...), or escape backslashes.
+sdk.dir=D:/path/to/Android/Sdk
+sdl2.dir=D:/path/to/SDL2-2.32.8
+freetype.dir=D:/path/to/freetype-2.15.0
+engine.dir=D:/path/to/openbgi/openbgi-sdl
