@@ -2,8 +2,8 @@
 
 Android Studio (Gradle) project that builds an Android app for running *Subarashiki Hibi* (English release) with the modified OpenBGI SDL2 engine.
 
-- Engine (OpenBGI with an SDL back end and the Android port): https://github.com/nurwed/openbgi-subahibi-android
-- This wrapper: 
+- Engine (OpenBGI with an SDL back end and the Android port): [OpenBgi-Android](https://github.com/nurwed/openbgi-subahibi-android)
+
 
 ## You must own the game
 
